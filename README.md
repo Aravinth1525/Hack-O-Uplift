@@ -4,7 +4,7 @@ Hack-O-Uplift is an online hackathon
 
 ## Organizer - [GIRLSCRIPT FOUNDATION](https://uplift.girlscript.tech/about.html#about-girlscript)
 
-## Team Name - BRANIHACK
+## Team Name - BRAINIHACK
 
 ## Team Members
 
