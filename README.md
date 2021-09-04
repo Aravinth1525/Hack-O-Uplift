@@ -21,6 +21,7 @@ Hack-O-Uplift is an online hackathon
 2. HTML
 3. JAVASCRIPT
 4. CSS
+5. SCSS
 
 ## Database - Mysql
 
