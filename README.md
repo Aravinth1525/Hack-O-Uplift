@@ -1,4 +1,4 @@
-## Hack-O-Uplift
+<h1>HACK-O-UPLIFT</h1>
 
 Hack-O-Uplift is an online hackathon 
 
