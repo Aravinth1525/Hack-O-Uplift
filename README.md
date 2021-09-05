@@ -25,6 +25,8 @@ Hack-O-Uplift is an online hackathon
 
 ## Database - Mysql
 
+## Payment Gateway - Razorpay
+
 ## Preview
 
-https://user-images.githubusercontent.com/79074310/132097079-1a365c8b-d1b4-43e2-92be-ff1381d862c6.mp4
+https://user-images.githubusercontent.com/79074310/132117944-d896769f-6599-47fa-8a13-f3cbbac5945f.mp4
