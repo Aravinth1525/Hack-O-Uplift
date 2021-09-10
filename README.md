@@ -18,7 +18,7 @@ Hack-O-Uplift is an online hackathon
 ## Languages Used
 
 1. PHP
-2. HTML
+2. HTML-5
 3. JAVASCRIPT
 4. CSS
 5. SCSS
