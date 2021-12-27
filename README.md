@@ -15,14 +15,6 @@ Hack-O-Uplift is an online hackathon
 
 ## Topic - Organic Farming
 
-## Languages Used
-
-1. PHP
-2. HTML-5
-3. JAVASCRIPT
-4. CSS
-5. SCSS
-
 ## Database - Mysql
 
 ## Payment Gateway - Razorpay
