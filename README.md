@@ -15,7 +15,7 @@ Hack-O-Uplift is an online hackathon
 
 ## Topic - Organic Farming
 
-## Database - Mysql
+## Database - MySQL
 
 ## Payment Gateway - Razorpay
 
