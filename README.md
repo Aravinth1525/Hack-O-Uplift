@@ -1,6 +1,6 @@
 <h1>HACK-O-UPLIFT</h1>
 
-Hack-O-Uplift is an online hackathon 
+Hack-O-Uplift is an online hackathon !
 
 ## Organizer - [GIRLSCRIPT FOUNDATION](https://uplift.girlscript.tech/about.html#about-girlscript)
 
